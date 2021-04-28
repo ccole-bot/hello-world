@@ -1,2 +1,2 @@
 # hello-world
-playground
+this is a place where i test out some stuff
